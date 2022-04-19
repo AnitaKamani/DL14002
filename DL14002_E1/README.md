@@ -1,6 +1,6 @@
 In this project, we were given the task of creating a classification for students who intend to fail or pass their course based on the 16 features on which we trained our model on.
 
-This model was totally hand coded to the scratch. 2,3 and 5 layers of relu and sigmoid activation as output, zero and random initializations.
+This model was totally hand coded to the scratch. 2,3 and 5 layers of relu and sigmoid activation as output, zero and random initializations. (No framework used)
 
 As said before all forward and backward codes were hand coded.
 
