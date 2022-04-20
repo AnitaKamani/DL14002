@@ -4,8 +4,9 @@ This model was totally hand coded to the scratch. 2,3 and 5 layers of relu and s
 
 As said before all forward and backward codes were hand coded.
 
-You can find the project description in [DL14002_E1.pdf](./DL14002_E1.pdf),
 
-project codes in [DL14002_E1_Kamani.ipynb](./DL14002_E1_Kamani.ipynb),
+You can find the project description at [DL14002_E1.pdf](./DL14002_E1.pdf),
 
-and result in  [DL14002_E1_Kamani.pdf](./DL14002_E1_Kamani.pdf)
+Project codes at [DL14002_E1_Kamani Colab notebook](https://colab.research.google.com/drive/15VdGOQM4InAWWkLlrkDuj9kK4pJAtzmo?usp=sharing),
+
+And results at  [DL14002_E1_Kamani.pdf](./DL14002_E1_Kamani.pdf)
