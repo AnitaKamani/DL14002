@@ -1,6 +1,6 @@
 
-You can find the project description in [DL14002_E2.pdf](./DL14002_E2.pdf),
+You can find the project description at [DL14002_E2.pdf](./DL14002_E2.pdf),
 
-project codes in [DL14002_E2_Kamani.ipynb](https://colab.research.google.com/drive/1AzxPOd7oaDc_U0CTMFM_dvLPWOQpdOVB?usp=sharing),
+Project codes at [DL14002_E2_Kamani Colab notebook](https://colab.research.google.com/drive/1AzxPOd7oaDc_U0CTMFM_dvLPWOQpdOVB?usp=sharing),
 
-and result in  [DL14002_E2_Kamani.pdf](./DL14002_E2_Kamani.pdf)
+And results at  [DL14002_E2_Kamani.pdf](./DL14002_E2_Kamani.pdf)
