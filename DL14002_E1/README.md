@@ -7,6 +7,6 @@ As said before all forward and backward codes were hand coded.
 
 You can find the project description at [DL14002_E1.pdf](./DL14002_E1.pdf),
 
-Project codes at [DL14002_E1_Kamani Colab notebook](https://colab.research.google.com/drive/15VdGOQM4InAWWkLlrkDuj9kK4pJAtzmo?usp=sharing),
+Project codes at [DL14002_E1_Kamani Colab notebook](https://colab.research.google.com/drive/15VdGOQM4InAWWkLlrkDuj9kK4pJAtzmo?usp=sharing){:target="\_blank"},
 
 And results at  [DL14002_E1_Kamani.pdf](./DL14002_E1_Kamani.pdf)
